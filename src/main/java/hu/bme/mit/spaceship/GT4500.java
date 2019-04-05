@@ -20,7 +20,9 @@ public class GT4500 implements SpaceShip {
     return false;
   }
 
+
 //Changeing row for branch A
+
   /**
   * Tries to fire the torpedo stores of the ship.
   *
