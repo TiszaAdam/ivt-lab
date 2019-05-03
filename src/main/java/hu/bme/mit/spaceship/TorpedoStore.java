@@ -16,7 +16,7 @@ public class TorpedoStore {
   private Random generator;
 
   public TorpedoStore(int numberOfTorpedos){
-    this.generator =  = new Random();
+    this.generator = new Random();
     this.torpedoCount = numberOfTorpedos;
 
     // update failure rate if it was specified in an environment variable
